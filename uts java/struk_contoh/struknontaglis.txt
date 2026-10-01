@@ -1,0 +1,32 @@
+==================================================
+             STRUK PEMBAYARAN
+==================================================
+
+Status Transaksi : TRANSAKSI BERHASIL
+
+No. Invoice      : IVR/20260813/XVI/VIII/3155712729
+Tanggal Transaksi: 13 Aug 2026 19:31 WIB
+Kategori Produk  : Layanan PLN
+
+--------------------------------------------------
+DETAIL PRODUK
+--------------------------------------------------
+
+Jenis Layanan    : Layanan Non-Taglis
+IDPEL            : 542100376127
+Nama             : S KARMAN
+
+Keterangan       : Penyambungan Baru
+Biaya Layanan    : Rp50.000
+
+No Ref           : 3TOK25VS15131E081BE2F94C59D11D9
+
+--------------------------------------------------
+RINCIAN PEMBAYARAN
+--------------------------------------------------
+
+Biaya Admin      : Rp4.000
+Metode Pembayaran: Kartu Kredit
+
+Total Pembayaran : Rp54.000
+==================================================

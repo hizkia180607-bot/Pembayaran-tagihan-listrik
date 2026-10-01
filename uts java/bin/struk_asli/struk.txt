@@ -1,0 +1,64 @@
+==================================================
+             STRUK PEMBAYARAN LISTRIK
+==================================================
+
+Status Transaksi : TRANSAKSI BERHASIL
+
+No. Invoice      : 12345678
+Tanggal Transaksi: 18 juni 2015
+Kategori Produk  : Listrik PLN
+
+--------------------------------------------------
+DETAIL PRODUK
+--------------------------------------------------
+
+Jenis Layanan    : Tagihan Listrik
+IDPEL            : 12345
+Nama             : hizkia
+Tarif/Daya       : 120
+Tagihan          : Rp1000000.0
+No Ref           : 1234
+
+--------------------------------------------------
+RINCIAN PEMBAYARAN
+--------------------------------------------------
+
+Biaya Admin      : Rp2000.0
+Metode Pembayaran: Ewallet
+Total Pembayaran : Rp1002000.0
+==================================================
+
+
+
+
+
+
+==================================================
+             STRUK PEMBAYARAN LISTRIK
+==================================================
+
+Status Transaksi : TRANSAKSI BERHASIL
+
+No. Invoice      : 10001
+Tanggal Transaksi: 29 september 2026
+Kategori Produk  : Listrik PLN
+
+--------------------------------------------------
+DETAIL PRODUK
+--------------------------------------------------
+
+Jenis Layanan    : Tagihan Listrik
+IDPEL            : 1001
+Nama             : Valen
+Tarif/Daya       : 20002
+Tagihan          : Rp1000000.0
+No Ref           : 825250045
+
+--------------------------------------------------
+RINCIAN PEMBAYARAN
+--------------------------------------------------
+
+Biaya Admin      : Rp4000.0
+Metode Pembayaran: Kartu Kredit
+Total Pembayaran : Rp1004000.0
+==================================================
